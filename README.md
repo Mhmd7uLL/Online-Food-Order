@@ -6,7 +6,8 @@ Online Food Order adalah sebuah aplikasi berbasis Python yang dirancang untuk me
 - Antarpengguna sederhana (+ Gui/OnlineFoodOrder_Gui.py)
 - Terminal ui sederhana (OnlineFoodOrder.py)
 
-1. Menu Pelanggan
+
+1. Menu Pelanggan / Customer Menu
 - Manajemen menu makanan dan minuman
 - Proses pemesanan makanan secara online
 - Manajemen data pelanggan
@@ -14,12 +15,14 @@ Online Food Order adalah sebuah aplikasi berbasis Python yang dirancang untuk me
 - Riwayat pesanan
 - Ulasan pembelian
 
-2. Menu Restoran/Penjual
+
+2. Menu Restoran / Restaurant Menu
 - Manajemen menu makanan dan minuman
 - Proses makanan
 - Penyerahan ke kurir
 
-3. Menu Kurir
+
+3. Menu Kurir / Courier Menu
 - Pengambilan makanan dari restoran
 - Pengantaran makanan ke pelanggan
 - Proses pembayaran
